@@ -1,0 +1,11 @@
+* {
+  padding: 10px;
+}
+
+table {
+  text-align: center;
+}
+
+.btn.btn-secondary{
+    margin-top: 10px;
+}
